@@ -10,7 +10,7 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 
 ## Overview
 
--   User should be albe to see hover states for interactive elements
+-   User should be able to see hover states for interactive elements
 
 ## My process
 
