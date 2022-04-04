@@ -25,11 +25,13 @@ body {
 a,
 a:active,
 a:focus {
+    text-decoration: none;
     outline: none;
     cursor: pointer;
 }
 
-a:hover {
+a:hover,
+.plan-btn::after {
     transition: all 0.1s ease-in;
 }
 
@@ -115,6 +117,25 @@ a:hover {
     font-weight: 700;
 }
 
+.plan-btn {
+    position: relative;
+}
+.plan-btn::after {
+    content: '';
+    height: 1px;
+    width: 100%;
+    background: hsl(245, 75%, 52%);
+    opacity: 1;
+
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+}
+
+.plan-btn:hover::after {
+    opacity: 0;
+}
+
 .plan-btn a:active,
 .plan-btn a:visited {
     color: hsl(245, 75%, 52%);
@@ -122,7 +143,6 @@ a:hover {
 
 .plan-btn a:hover {
     color: hsl(245, 75%, 72%);
-    text-decoration: none;
 }
 
 .card-btn-proceed a,
