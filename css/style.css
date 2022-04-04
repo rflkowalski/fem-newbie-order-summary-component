@@ -37,6 +37,7 @@ a:hover {
     max-width: 28.125rem;
     background-color: hsl(225, 100%, 100%);
     border-radius: 15px;
+    box-shadow: 0px 20px 30px -5px hsl(249, 100%, 90%);
     overflow: hidden;
 
     position: absolute;
@@ -62,7 +63,7 @@ a:hover {
     color: hsl(223, 47%, 23%);
     font-size: 1.5rem;
     font-weight: 900;
-    margin: 0 0 1.5rem 0;
+    margin: 0 0 1.625rem 0;
 }
 
 .card-text {
@@ -73,7 +74,7 @@ a:hover {
 
 .plan-container {
     background: hsl(225, 100%, 98%);
-    margin: 0 0 1.5rem 0;
+    margin: 0 0 1.625rem 0;
     padding: 1.625rem;
     border-radius: 10px;
     display: flex;
@@ -132,7 +133,7 @@ a:hover {
 .card-btn-proceed a {
     width: 100%;
     background: hsl(245, 75%, 52%);
-    margin: 0 0 1.5rem 0;
+    margin: 0 0 1.625rem 0;
     padding: 1.25rem;
     color: hsl(225, 100%, 100%);
     font-size: 0.875rem;
