@@ -131,9 +131,8 @@ a:hover {
 }
 
 .card-btn-proceed a {
-    width: 100%;
     background: hsl(245, 75%, 52%);
-    margin: 0 0 1.625rem 0;
+    margin: 0 0 0.5rem 0;
     padding: 1.25rem;
     color: hsl(225, 100%, 100%);
     font-size: 0.875rem;
@@ -149,8 +148,13 @@ a:hover {
 }
 
 .card-btn-cancel a {
+    width: 100%;
+    padding: 1.25rem;
     color: hsl(224, 23%, 55%);
+    font-size: 0.875rem;
     font-weight: 900;
+
+    display: block;
 }
 
 .card-btn-cancel a:hover {
