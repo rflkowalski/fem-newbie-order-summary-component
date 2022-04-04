@@ -10,7 +10,7 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 
 ## Overview
 
--   update later
+-   User should be albe to see hover states for interactive elements
 
 ## My process
 
@@ -18,4 +18,4 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 
 -   Semantic HTML5 markup
 -   CSS3
--   update later
+-   Flexbox
