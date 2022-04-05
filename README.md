@@ -17,8 +17,8 @@ User should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/rflkowalski/fem-newbie-order-summary-component)
--   Live Site URL: [Add live site URL here](https://rflkowalski.github.io/fem-newbie-order-summary-component/)
+-   Solution URL: [https://github.com/rflkowalski/fem-newbie-order-summary-component](https://github.com/rflkowalski/fem-newbie-order-summary-component)
+-   Live Site URL: [https://rflkowalski.github.io/fem-newbie-order-summary-component/](https://rflkowalski.github.io/fem-newbie-order-summary-component/)
 
 ## My process
 
