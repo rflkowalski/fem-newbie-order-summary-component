@@ -17,13 +17,14 @@ User should be able to:
 
 ### Links
 
--   Solution URL: [https://github.com/rflkowalski/fem-newbie-order-summary-component](https://github.com/rflkowalski/fem-newbie-order-summary-component)
--   Live Site URL: [https://rflkowalski.github.io/fem-newbie-order-summary-component/](https://rflkowalski.github.io/fem-newbie-order-summary-component/)
+-   Solution URL: [link](https://github.com/rflkowalski/fem-newbie-order-summary-component)
+-   Live Site URL: [link](https://rflkowalski.github.io/fem-newbie-order-summary-component/)
 
 ## My process
 
 ### Built with
 
 -   Semantic HTML5 markup
--   CSS3
+-   CSS3 custom properties
 -   Flexbox
+-   Modern CSS Reset [link](https://piccalil.li/blog/a-modern-css-reset/)
